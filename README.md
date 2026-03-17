@@ -70,3 +70,5 @@ Bash
 python Load_data.py
 python train_model.py
 
+System Architecture
+![Project Architecture](./plots/architecture_diagram.png)
