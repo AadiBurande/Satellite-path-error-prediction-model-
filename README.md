@@ -8,6 +8,8 @@ The goal is to develop an AI/ML-based model to predict time-varying patterns of 
 ### Problem Statement ID: 25176
 Accurate GNSS positioning depends on precise satellite timing and orbital data. This model predicts future error build-ups at 15-minute intervals to enhance the reliability of navigation systems.
 
+
+
 ---
 
 ## 🚀 Features
