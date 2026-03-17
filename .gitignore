@@ -1,0 +1,14 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (Optional - usually better to keep large CSVs out of Git)
+data/*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
